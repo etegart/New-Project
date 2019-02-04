@@ -8,6 +8,7 @@ namespace New_Project
         {
             Console.WriteLine("It's Sunday!");
             Console.WriteLine("What's going on?");
+            Console.WriteLine("This is weird");
         }
     }
 }
